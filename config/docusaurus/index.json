@@ -7,13 +7,13 @@
       "position": "left"
     },
     {
-      "label": "Stuff of Legend",
+      "label": "Qui suis-je ?",
       "link": "doc",
       "docLink": "docs/whoami.md",
       "position": "left"
     },
     {
-      "externalLink": "https://github.com/battleofplassey",
+      "externalLink": "",
       "link": "external",
       "position": "right",
       "className": "header-github-link",
@@ -25,7 +25,7 @@
     "src": "img/blogasaurus_primary.svg"
   },
   "title": "",
-  "tagline": "A blog by Palash Shrivastava",
+  "tagline": "A blog by Rajekevin",
   "footer": {
     "style": "dark",
     "links":[
@@ -34,12 +34,12 @@
         "items": [
           {
             "label": "Twitter",
-            "href": "https://twitter.com/battleofplassey",
+            "href": "",
             "_template": "external"
           },
           {
             "label": "Instagram",
-            "href": "https://instagram.com/battleofplassey",
+            "href": "",
             "_template": "external"
           }
         ]
@@ -53,13 +53,13 @@
             "_template": "internal"
           },
           {
-            "label": "Stuff of Legend",
+            "label": "Qui suis-je ?",
             "to": "/docs/whoami",
             "_template": "internal"
           },
           {
             "label": "GitHub",
-            "href": "https://github.com/battleofplassey",
+            "href": "https://github.com/rajekevin",
             "_template": "external"
           }
         ]},
@@ -73,18 +73,18 @@
             },
             {
               "label": "vocab.js.org",
-              "href": "https://vocab.js.org",
+              "href": "",
             "_template": "external"
             },
             {
               "label": "TL;DR News",
-              "href": "https://tldr.palashsh.me/",
+              "href": "",
             "_template": "external"
             }
           ]
         }
     ],
-    "copyright": "Blogasaurus by Palash Shrivastava."
+    "copyright": "Rajekevin"
   },
-  "url": "https://blog.palashsh.me/"
+  "url": "https://rajekevin.fr"
 }

@@ -87,21 +87,21 @@ const formatNavbarItem = (item, subnav = false) => {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: docusaurusData.title || "Blogasaurus",
-  tagline: docusaurusData.tagline || "A Blog by Palash Shrivastava",
-  url: docusaurusData.url || "https://blog.palashsh.me/",
+  title: docusaurusData.title || "Code Wiki",
+  tagline: docusaurusData.tagline || "Un blog de Rajekevin",
+  url: docusaurusData.url || "https://rajekevin.fr/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: 'battleofplassey', // Usually your GitHub org/user name.
-  projectName: 'blogasaurus',
+  organizationName: 'rajekevin', // Usually your GitHub org/user name.
+  projectName: 'code-wiki',
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "fr",
+    locales: ["fr"],
   },
 
   presets: [
@@ -118,7 +118,7 @@ const config = {
             // Please change this to your repo.
             routeBasePath: '/',
             blogTitle: 'Blogasaurus',
-            blogDescription: 'A blog by Palash Shrivastava',
+            blogDescription: 'Un blog de Rajekevin',
             path: 'blog',
             blogSidebarCount: 'ALL',
             blogSidebarTitle: 'All Blog Posts',

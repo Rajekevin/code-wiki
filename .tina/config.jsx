@@ -53,9 +53,9 @@ const PostCollection = {
   format: "md",
   ui: {
     defaultItem: {
-      author: 'Palash Shrivastava',
+      author: 'Rajekevin',
       author_title: 'Owner',
-      author_url:"https://github.com/battleofplassey",
+      author_url:"https://github.com/rajekevin",
       author_image_url:"https://avatars.githubusercontent.com/u/35087196?v=4",
       hide_table_of_contents: false,
       image: "https://avatars.githubusercontent.com/u/35087196?v=4"
@@ -838,8 +838,8 @@ const PagesCollection = {
 
 export default defineConfig({
   branch,
-  clientId: process.env.CLIENT_ID, // Get this from tina.io
-  token: process.env.TOKEN, // Get this from tina.io
+  //clientId: process.env.CLIENT_ID, // Get this from tina.io
+  //token: process.env.TOKEN, // Get this from tina.io
   build: {
     outputFolder: "admin",
     publicFolder: "static",
