@@ -279,7 +279,7 @@ const CategoryFields = [
     collections: ["doc"],
     ui: {
       component: (props) => {
-        const link = React.useMemo(() => {
+        const link = React.useMemo(() => docLink{
           let fieldName = props.field.name;
           fieldName =
             fieldName.substring(0, fieldName.lastIndexOf(".")) || fieldName;

@@ -12,7 +12,7 @@ fields:
 - type: text
   name: author
   label: Author
-  default: Palash Shrivastava
+  default:Rajekevin
 - type: text
   name: author_title
   label: author_title
@@ -40,7 +40,7 @@ fields:
 - type: text
   name: description
   label: Description to be used in SEO
-  default: Blog By Palash Shrivastava
+  default: Blog ByRajekevin
 - name: draft
   type: boolean
   label: Is draft?

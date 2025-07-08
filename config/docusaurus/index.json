@@ -13,7 +13,7 @@
       "position": "left"
     },
     {
-      "externalLink": "",
+      "externalLink": "https://github.com/rajekevin/code-wiki",
       "link": "external",
       "position": "right",
       "className": "header-github-link",
@@ -64,21 +64,26 @@
           }
         ]},
         {
-          "title": "other Projects",
+          "title": "Veille technologique",
           "items": [
             {
-              "label": "SidToons.com",
-              "href": "https://sidtoons.com",
+              "label": "Stitcher.io",
+              "href": "https://stitcher.io/",
             "_template": "external"
             },
             {
-              "label": "vocab.js.org",
-              "href": "",
+              "label": "dev.to PHP",
+              "href": "https://dev.to/t/php",
             "_template": "external"
             },
             {
-              "label": "TL;DR News",
-              "href": "",
+              "label": "baeldung",
+              "href": "https://baeldung.com",
+            "_template": "external"
+            },
+            {
+              "label": "Blog Octo",
+              "href": "https://blog.octo.com/",
             "_template": "external"
             }
           ]

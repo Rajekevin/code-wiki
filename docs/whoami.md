@@ -9,8 +9,8 @@ _template: 'page'
 <!-- ## whoami? -->
 
 
-```bash title="palash@blog.palashsh.me:~$ whoami"
- Palash Shrivastava
+```bash title="rajekevin@dev:~$ whoami"
+Rajekevin
  
  Description:
     - A passionate Developer and a web designer. 

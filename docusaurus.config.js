@@ -124,7 +124,7 @@ const config = {
             blogSidebarTitle: 'All Blog Posts',
             feedOptions: {
               type: 'all',
-              copyright: `Copyright © ${new Date().getFullYear()} Blogasaurus by Palash Shrivastava`,
+              copyright: `Copyright © ${new Date().getFullYear()} Blogasaurus de Rajekevin`,
             }
         },
         theme: {
