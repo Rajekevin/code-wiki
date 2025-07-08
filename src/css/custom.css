@@ -189,7 +189,7 @@ html[data-theme='dark'] .navbar .navbar__logo {
   }
 
  .navbar__logo img {
-    width: 150px !important;
+    width: 40px !important;
     height: auto !important;
     display: block !important;
   }
